@@ -1,4 +1,4 @@
-// @noriaku | Kalos Lazo
+// @bxrlin | Kalos Lazo
 
 //===: get username :===
 async function handle_get_username() {
