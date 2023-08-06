@@ -24,22 +24,22 @@
     --col-light-orange-03: #E6C98E;
     
     --col-purple-01: #cba6f7;
-    --col-purple-02: #B694C1;
-    --col-purple-03: #C7A9D4;
+    --col-purple-02: #b4befe;
+    --col-purple-03: #b4befe;
     
     --col-yellow-01: #f9e2af;
-    --col-yellow-02: #E0D195;
-    --col-yellow-03: #F9EAA5;
+    --col-yellow-02: #f9e2af;
+    --col-yellow-03: #f9e2af;
     
     --col-green-01: #a6e3a1;
     --col-green-02: #A7CC97;
     --col-green-03: #B8D9B0;
     
     --col-sky-blue-01: #89dceb;
-    --col-sky-blue-02: #90C6E1;
-    --col-sky-blue-03: #A3D8F4;
+    --col-sky-blue-02: #74c7ec;
+    --col-sky-blue-03: #94e2d5;
 
-    --ff-mono: "Agave Nerd Font";
+    --ff-mono: "JetBrainsMono Nerd";
     --ff-weight-base: 400;
 }
 
