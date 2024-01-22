@@ -3,41 +3,41 @@
 /*===: root :===*/
 /* Change with your colorscheme colors ;)  */
 :root {
-  --bg-dark-01: #14171c;
-  --bg-dark-02: #282c34;
-  --bg-dark-03: #333333;
+  --bg-dark-01: #0e0e0e;
+  --bg-dark-02: #16161c;
+  --bg-dark-03: #5b5858;
   --bg-dark-04: #3d3d3d;
   --bg-dark-05: #505050;
   --bg-dark-05: #636363;
 
-  --bg-white-02: #dbdbdb;
+  --bg-white-02: #d5d8da;
   --bg-white-03: #b8bfe5;
-  --bg-white-01: #b8bfe5;
+  --bg-white-01: #d5d8da;
   --bg-white-04: #f5f5f5;
 
-  --col-red-01: #e06c75;
-  --col-red-02: #e06c75;
-  --col-red-03: #e06c75;
+  --col-red-01: #ec6a88;
+  --col-red-02: #ec6a88;
+  --col-red-03: #ec6a88;
 
-  --col-light-orange-01: #cc9057;
-  --col-light-orange-02: #cc9057;
-  --col-light-orange-03: #cc9057;
+  --col-light-orange-01: #fab795;
+  --col-light-orange-02: #fab795;
+  --col-light-orange-03: #fab795;
 
-  --col-purple-01: #c678dd;
-  --col-purple-02: #c678dd;
-  --col-purple-03: #c678dd;
+  --col-purple-01: #ee64ac;
+  --col-purple-02: #ee64ac;
+  --col-purple-03: #ee64ac;
 
-  --col-yellow-01: #e5c07b;
-  --col-yellow-02: #e5c07b;
-  --col-yellow-03: #e5c07b;
+  --col-yellow-01: #fbc3a7;
+  --col-yellow-02: #fbc3a7;
+  --col-yellow-03: #fbc3a7;
 
-  --col-green-01: #98c379;
-  --col-green-02: #98c379;
-  --col-green-03: #98c379;
+  --col-green-01: #29d398;
+  --col-green-02: #29d398;
+  --col-green-03: #29d398;
 
-  --col-sky-blue-01: #56b6c2;
-  --col-sky-blue-02: #56b6c2;
-  --col-sky-blue-03: #56b6c2;
+  --col-sky-blue-01: #3fc4de;
+  --col-sky-blue-02: #3fc4de;
+  --col-sky-blue-03: #3fc4de;
 
   --ff-mono: "JetBrainsMono Nerd Font";
   --ff-weight-base: 400;
